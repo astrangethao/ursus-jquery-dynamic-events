@@ -39,5 +39,3 @@ function clickAddGreen(event) {
   $('.js-green-count').text(greenCounter);
   $('.js-color-container').append(`<div class="box green"></div>`);
 }
-
-
