@@ -1,4 +1,4 @@
-# Dynamic Events with jQuery 
+# Dynamic Events with jQuery
 
 **jQuery Methods:**
 
